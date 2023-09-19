@@ -1,0 +1,17 @@
+.image img {
+
+    width: 150px;
+    border-top: 30px solid skyblue;
+    border-right: 30px solid lightpink;
+    border-bottom: 30px solid lightgreen;
+    border-left: 30px solid #ffefd5;
+
+}
+
+th {
+    padding: 15px;
+}
+
+td {
+    text-align: center;
+}
